@@ -1,4 +1,4 @@
-package prova.Q2;
+package Q3;
 
 public class ExceptionTest {
 

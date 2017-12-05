@@ -1,9 +1,0 @@
-public enum FlightStatus {
-  PARKED,
-  ABOUT_TO_TAKEOFF,
-  ABOUT_TO_LAND,
-  WAITING_TO_TAKE_OFF,
-  WAITING_TO_LAND,
-  TAKING_OFF,
-  MID_FLIGHT,
-}

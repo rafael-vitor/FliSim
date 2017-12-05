@@ -1,4 +1,4 @@
-package prova.Q1;
+package Q1;
 
 public class Feline extends Animal {
 
